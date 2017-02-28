@@ -1,0 +1,1 @@
+This is my MVS project and solution file to create a Virtual Pet Monster on your computer.  You can name it, change its color, and set its age. You can interact with this monster by talking to it, playing with it, or feeding it.
